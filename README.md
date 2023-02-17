@@ -1,2 +1,3 @@
-# ping_check
-Programa em python para chegar o ping
+# Ping Check
+
+Simple program in python to check ping.
